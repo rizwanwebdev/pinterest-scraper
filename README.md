@@ -4,7 +4,6 @@ A Python-based tool for downloading high-quality images from Pinterest using Sel
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 🌟 Features
 
