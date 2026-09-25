@@ -199,7 +199,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Rizwan**
 
 - GitHub: [@rizwanwebdev](https://github.com/rizwanwebdev)
-- Portfolio: [https://rizwanweb.site/](https://rizwanweb.site/)
+- Portfolio: [https://rizwan.one](https://rizwan.one)
 
 ## 🙏 Acknowledgments
 
